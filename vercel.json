@@ -2,7 +2,8 @@
     "rewrites": [
       { "source": "/trumpq1/(.*)", "destination": "/$1" },
       { "source": "/trumpq1", "destination": "/" },
-      { "source": "/trumpc1.html", "destination": "/two.html" }
+      { "source": "/trumpc1.html", "destination": "/two.html" },
+      { "source": "/trumpc2.html", "destination": "/three.html" }
 
 
     ]
