@@ -1,7 +1,8 @@
 {
     "rewrites": [
       { "source": "/trumpq1/(.*)", "destination": "/$1" },
-      { "source": "/trumpq1", "destination": "/" }
+      { "source": "/trumpq1", "destination": "/" },
+      { "source": "/trumpc", "destination": "/two.html" }
     ]
   }
   
